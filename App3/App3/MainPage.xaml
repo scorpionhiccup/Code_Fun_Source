@@ -8,6 +8,10 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        <!--
+        <Button x:Name="Click" Click="clickeme" Margin="455,386,0,272" Height="110" Width="193">dfsfacsfssa</Button>
+        -->
         <TextBlock x:Name="disptextu" Text="sdfgdfgd" Margin="67,46,-67,-46" />
         <Button x:Name="kill" Margin="185,458,0,272" Click="goclick">kus</Button>
     </Grid>
